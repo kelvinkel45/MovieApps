@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MovieApps</string>
+    <string name="image_poster">image_poster</string>
+    <string name="discover_movie">DISCOVER MOVIE</string>
+    <string name="detail_banner">Detail Banner</string>
+    <string name="icon_rating">icon rating</string>
+    <string name="genres">Genres</string>
+    <string name="overview">Overview</string>
+    <string name="image_button">image button</string>
+    <string name="review">Reviews</string>
+    <string name="videos">Video</string>
+    <string name="string_error">Something wrong, Please Reload</string>
+    <string name="no_data_found">No Data Found</string>
+</resources>
